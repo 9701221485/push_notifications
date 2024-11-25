@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "802219666712",
+    "project_id": "flutterpndemo",
+    "storage_bucket": "flutterpndemo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802219666712:android:e5c2fef1c3582134ac426d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_push_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGC5UDMUY32Lc0fAlBd_92HNxgikzdVVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

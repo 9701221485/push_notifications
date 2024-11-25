@@ -1,0 +1,12 @@
+specVersion: "v1beta"
+serviceId: "flutter_push_notification"
+location: "us-central1"
+schema:
+  source: "./schema"
+  datasource:
+    postgresql:
+      database: "fdcdb"
+      cloudSql:
+        instanceId: "flutter_push_notification-fdc"
+      # schemaValidation: "COMPATIBLE"
+connectorDirs: ["./connector"]
